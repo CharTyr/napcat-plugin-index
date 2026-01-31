@@ -102,7 +102,7 @@
     {
       "id": "napcat-plugin-auto-clear",
       "name": "自动清理",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "定时扫描并清理长期不发言的鱼干成员",
       "author": "AQiaoYo",
       "homepage": "https://github.com/AQiaoYo/napcat-plugin-auto-clear",
