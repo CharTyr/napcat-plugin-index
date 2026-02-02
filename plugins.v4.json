@@ -135,7 +135,7 @@
       "description": "自动解析聊天消息中的 Bilibili 视频链接,并获取视频详情发送到聊天中",
       "author": "AQiaoYo",
       "homepage": "https://github.com/AQiaoYo/napcat-plugin-bilibili",
-      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-bilibili/releases/latest/download/napcat-plugin-auto-clear.zip",
+      "downloadUrl": "https://github.com/AQiaoYo/napcat-plugin-bilibili/releases/download/v1.0.0/napcat-plugin-bilibili.zip",
       "tags": [
         "工具",
         "娱乐"
