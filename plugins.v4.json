@@ -226,10 +226,10 @@
     },
     {
       "id": "napcat-plugin-steam-depot",
-      "name": "AQiaoYo",
+      "name": "Steam Depot",
       "version": "1.0.0",
       "description": "从 GitHub 仓库和 ManifestHub 数据源获取 Steam 游戏的 Manifest 和 Depot 解密密钥，自动生成 Lua 脚本并打包发送到 QQ 群",
-      "author": "鸡太美",
+      "author": "AQiaoYo",
       "homepage": "https://github.com/AQiaoYo/napcat-plugin-steam-depot",
       "downloadUrl": "",
       "tags": [
