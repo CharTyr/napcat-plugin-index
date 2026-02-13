@@ -6,6 +6,8 @@ NapCat 插件索引仓库
 >
 > 如果你不想使用模板仓库，请参考模板仓库中的 [CI 工作流](https://github.com/AQiaoYo/napcat-plugin-template/tree/main/.github/workflows) 自行实现自动提交流程，确保 PR 由 CI 自动发起。
 
+>  **⚠️ 注意! PR时请不要修改 updateTime 字段, 会导致无法自动合并, 目前合并逻辑会自动拒绝修改 updateTime 字段的PR**
+
 ---
 
 ## 🚀 插件提交方式
